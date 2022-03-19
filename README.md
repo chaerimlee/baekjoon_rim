@@ -1,2 +1,2 @@
 # baekjoon_rim
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+This is the repository where I solved the Baekjun Algorithm problems.
